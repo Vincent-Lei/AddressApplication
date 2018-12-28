@@ -1,0 +1,496 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<province name="安徽" code="192" pinyin="anhui" headChars="ah">
+<city name="合肥市" code="667" pinyin="hefeishi" headChars="hfs" provinceCode="192"></city>
+<city name="芜湖市" code="668" pinyin="wuhushi" headChars="whs" provinceCode="192"></city>
+<city name="蚌埠市" code="669" pinyin="bangbushi" headChars="bbs" provinceCode="192"></city>
+<city name="淮南市" code="670" pinyin="huainanshi" headChars="hns" provinceCode="192"></city>
+<city name="马鞍山市" code="671" pinyin="maanshanshi" headChars="mass" provinceCode="192"></city>
+<city name="淮北市" code="672" pinyin="huaibeishi" headChars="hbs" provinceCode="192"></city>
+<city name="铜陵市" code="673" pinyin="tonglingshi" headChars="tls" provinceCode="192"></city>
+<city name="安庆市" code="674" pinyin="anqingshi" headChars="aqs" provinceCode="192"></city>
+<city name="黄山市" code="675" pinyin="huangshanshi" headChars="hss" provinceCode="192"></city>
+<city name="滁州市" code="676" pinyin="chuzhoushi" headChars="czs" provinceCode="192"></city>
+<city name="阜阳市" code="677" pinyin="fuyangshi" headChars="fys" provinceCode="192"></city>
+<city name="宿州市" code="678" pinyin="suzhoushi" headChars="szs" provinceCode="192"></city>
+<city name="巢湖市" code="679" pinyin="chaohushi" headChars="chs" provinceCode="192"></city>
+<city name="六安市" code="680" pinyin="liuanshi" headChars="las" provinceCode="192"></city>
+<city name="亳州市" code="681" pinyin="bozhoushi" headChars="bzs" provinceCode="192"></city>
+<city name="池州市" code="682" pinyin="chizhoushi" headChars="czs" provinceCode="192"></city>
+<city name="宣城市" code="683" pinyin="xuanchengshi" headChars="xcs" provinceCode="192"></city>
+</province>
+<province name="北京" code="193" pinyin="beijing" headChars="bj">
+<city name="北京市" code="416" pinyin="beijingshi" headChars="bjs" provinceCode="193"></city>
+</province>
+<province name="重庆" code="194" pinyin="chongqing" headChars="cq">
+<city name="重庆市" code="468" pinyin="chongqingshi" headChars="cqs" provinceCode="194"></city>
+</province>
+<province name="福建" code="195" pinyin="fujian" headChars="fj">
+<city name="福州市" code="684" pinyin="fuzhoushi" headChars="fzs" provinceCode="195"></city>
+<city name="厦门市" code="685" pinyin="xiamenshi" headChars="xms" provinceCode="195"></city>
+<city name="莆田市" code="686" pinyin="putianshi" headChars="pts" provinceCode="195"></city>
+<city name="三明市" code="687" pinyin="sanmingshi" headChars="sms" provinceCode="195"></city>
+<city name="泉州市" code="688" pinyin="quanzhoushi" headChars="qzs" provinceCode="195"></city>
+<city name="漳州市" code="689" pinyin="zhangzhoushi" headChars="zzs" provinceCode="195"></city>
+<city name="南平市" code="690" pinyin="nanpingshi" headChars="nps" provinceCode="195"></city>
+<city name="龙岩市" code="691" pinyin="longyanshi" headChars="lys" provinceCode="195"></city>
+<city name="宁德市" code="692" pinyin="ningdeshi" headChars="nds" provinceCode="195"></city>
+</province>
+<province name="甘肃" code="196" pinyin="gansu" headChars="gs">
+<city name="兰州市" code="530" pinyin="lanzhoushi" headChars="lzs" provinceCode="196"></city>
+<city name="嘉峪关市" code="531" pinyin="jiayuguanshi" headChars="jygs" provinceCode="196"></city>
+<city name="金昌市" code="532" pinyin="jinchangshi" headChars="jcs" provinceCode="196"></city>
+<city name="白银市" code="533" pinyin="baiyinshi" headChars="bys" provinceCode="196"></city>
+<city name="天水市" code="534" pinyin="tianshuishi" headChars="tss" provinceCode="196"></city>
+<city name="武威市" code="535" pinyin="wuweishi" headChars="wws" provinceCode="196"></city>
+<city name="张掖市" code="536" pinyin="zhangyeshi" headChars="zys" provinceCode="196"></city>
+<city name="平凉市" code="537" pinyin="pingliangshi" headChars="pls" provinceCode="196"></city>
+<city name="酒泉市" code="538" pinyin="jiuquanshi" headChars="jqs" provinceCode="196"></city>
+<city name="庆阳市" code="539" pinyin="qingyangshi" headChars="qys" provinceCode="196"></city>
+<city name="定西市" code="540" pinyin="dingxishi" headChars="dxs" provinceCode="196"></city>
+<city name="陇南市" code="541" pinyin="longnanshi" headChars="lns" provinceCode="196"></city>
+<city name="临夏州" code="542" pinyin="linxiazhou" headChars="lxz" provinceCode="196"></city>
+<city name="甘南州" code="543" pinyin="gannanzhou" headChars="gnz" provinceCode="196"></city>
+</province>
+<province name="广东" code="197" pinyin="guangdong" headChars="gd">
+<city name="广州市" code="431" pinyin="guangzhoushi" headChars="gzs" provinceCode="197"></city>
+<city name="深圳市" code="432" pinyin="shenzhenshi" headChars="szs" provinceCode="197"></city>
+<city name="珠海市" code="433" pinyin="zhuhaishi" headChars="zhs" provinceCode="197"></city>
+<city name="汕头市" code="434" pinyin="shantoushi" headChars="sts" provinceCode="197"></city>
+<city name="韶关市" code="435" pinyin="shaoguanshi" headChars="sgs" provinceCode="197"></city>
+<city name="佛山市" code="436" pinyin="foshanshi" headChars="fss" provinceCode="197"></city>
+<city name="江门市" code="437" pinyin="jiangmenshi" headChars="jms" provinceCode="197"></city>
+<city name="湛江市" code="438" pinyin="zhanjiangshi" headChars="zjs" provinceCode="197"></city>
+<city name="茂名市" code="439" pinyin="maomingshi" headChars="mms" provinceCode="197"></city>
+<city name="肇庆市" code="440" pinyin="zhaoqingshi" headChars="zqs" provinceCode="197"></city>
+<city name="惠州市" code="441" pinyin="huizhoushi" headChars="hzs" provinceCode="197"></city>
+<city name="梅州市" code="442" pinyin="meizhoushi" headChars="mzs" provinceCode="197"></city>
+<city name="汕尾市" code="443" pinyin="shanweishi" headChars="sws" provinceCode="197"></city>
+<city name="河源市" code="444" pinyin="heyuanshi" headChars="hys" provinceCode="197"></city>
+<city name="阳江市" code="445" pinyin="yangjiangshi" headChars="yjs" provinceCode="197"></city>
+<city name="清远市" code="446" pinyin="qingyuanshi" headChars="qys" provinceCode="197"></city>
+<city name="东莞市" code="447" pinyin="dongguanshi" headChars="dgs" provinceCode="197"></city>
+<city name="中山市" code="448" pinyin="zhongshanshi" headChars="zss" provinceCode="197"></city>
+<city name="潮州市" code="449" pinyin="chaozhoushi" headChars="czs" provinceCode="197"></city>
+<city name="揭阳市" code="450" pinyin="jieyangshi" headChars="jys" provinceCode="197"></city>
+<city name="云浮市" code="451" pinyin="yunfushi" headChars="yfs" provinceCode="197"></city>
+</province>
+<province name="广西" code="198" pinyin="guangxi" headChars="gx">
+<city name="南宁市" code="452" pinyin="nanningshi" headChars="nns" provinceCode="198"></city>
+<city name="柳州市" code="453" pinyin="liuzhoushi" headChars="lzs" provinceCode="198"></city>
+<city name="桂林市" code="454" pinyin="guilinshi" headChars="gls" provinceCode="198"></city>
+<city name="梧州市" code="455" pinyin="wuzhoushi" headChars="wzs" provinceCode="198"></city>
+<city name="北海市" code="456" pinyin="beihaishi" headChars="bhs" provinceCode="198"></city>
+<city name="防城港市" code="457" pinyin="fangchenggangshi" headChars="fcgs" provinceCode="198"></city>
+<city name="钦州市" code="458" pinyin="qinzhoushi" headChars="qzs" provinceCode="198"></city>
+<city name="贵港市" code="459" pinyin="guigangshi" headChars="ggs" provinceCode="198"></city>
+<city name="玉林市" code="460" pinyin="yulinshi" headChars="yls" provinceCode="198"></city>
+<city name="百色市" code="461" pinyin="baiseshi" headChars="bss" provinceCode="198"></city>
+<city name="贺州市" code="462" pinyin="hezhoushi" headChars="hzs" provinceCode="198"></city>
+<city name="河池市" code="463" pinyin="hechishi" headChars="hcs" provinceCode="198"></city>
+<city name="来宾市" code="464" pinyin="laibinshi" headChars="lbs" provinceCode="198"></city>
+<city name="崇左市" code="465" pinyin="chongzuoshi" headChars="czs" provinceCode="198"></city>
+</province>
+<province name="贵州" code="199" pinyin="guizhou" headChars="gz">
+<city name="贵阳市" code="489" pinyin="guiyangshi" headChars="gys" provinceCode="199"></city>
+<city name="六盘水市" code="490" pinyin="liupanshuishi" headChars="lpss" provinceCode="199"></city>
+<city name="遵义市" code="491" pinyin="zunyishi" headChars="zys" provinceCode="199"></city>
+<city name="安顺市" code="492" pinyin="anshunshi" headChars="ass" provinceCode="199"></city>
+<city name="铜仁地区" code="493" pinyin="tongrendiqu" headChars="trdq" provinceCode="199"></city>
+<city name="黔西南州" code="494" pinyin="qianxinanzhou" headChars="qxnz" provinceCode="199"></city>
+<city name="毕节地区" code="495" pinyin="bijiediqu" headChars="bjdq" provinceCode="199"></city>
+<city name="黔东南州" code="496" pinyin="qiandongnanzhou" headChars="qdnz" provinceCode="199"></city>
+<city name="黔南州" code="497" pinyin="qiannanzhou" headChars="qnz" provinceCode="199"></city>
+</province>
+<province name="海南" code="200" pinyin="hainan" headChars="hn">
+<city name="海口市" code="466" pinyin="haikoushi" headChars="hks" provinceCode="200"></city>
+<city name="三亚市" code="467" pinyin="sanyashi" headChars="sys" provinceCode="200"></city>
+<city name="五指山市" code="12084" pinyin="wuzhishanshi" headChars="wzss" provinceCode="200"></city>
+<city name="琼海市" code="12085" pinyin="qionghaishi" headChars="qhs" provinceCode="200"></city>
+<city name="儋州" code="12086" pinyin="danzhou" headChars="dz" provinceCode="200"></city>
+<city name="文昌市" code="12087" pinyin="wenchangshi" headChars="wcs" provinceCode="200"></city>
+<city name="万宁市" code="12088" pinyin="wanningshi" headChars="wns" provinceCode="200"></city>
+<city name="东方市" code="12089" pinyin="dongfangshi" headChars="dfs" provinceCode="200"></city>
+<city name="定安县" code="12090" pinyin="dinganxian" headChars="dax" provinceCode="200"></city>
+<city name="屯昌县" code="12091" pinyin="tunchangxian" headChars="tcx" provinceCode="200"></city>
+<city name="澄迈县" code="12092" pinyin="chengmaixian" headChars="cmx" provinceCode="200"></city>
+<city name="临高县" code="12093" pinyin="lingaoxian" headChars="lgx" provinceCode="200"></city>
+<city name="白沙黎族自治县" code="12094" pinyin="baishalizuzizhixian" headChars="bslzzzx" provinceCode="200"></city>
+<city name="昌江黎族自治县" code="12095" pinyin="changjianglizuzizhixian" headChars="cjlzzzx" provinceCode="200"></city>
+<city name="乐东黎族自治县" code="12096" pinyin="ledonglizuzizhixian" headChars="ldlzzzx" provinceCode="200"></city>
+<city name="陵水黎族自治县" code="12097" pinyin="lingshuilizuzizhixian" headChars="lslzzzx" provinceCode="200"></city>
+<city name="保亭黎族苗族自治县" code="12098" pinyin="baotinglizumiaozuzizhixian" headChars="btlzmzzzx" provinceCode="200"></city>
+<city name="琼中黎族苗族自治县" code="12099" pinyin="qiongzhonglizumiaozuzizhixian" headChars="qzlzmzzzx" provinceCode="200"></city>
+<city name="三沙市" code="14897" pinyin="sanshashi" headChars="sss" provinceCode="200"></city>
+</province>
+<province name="河北" code="201" pinyin="hebei" headChars="hb">
+<city name="石家庄市" code="573" pinyin="shijiazhuangshi" headChars="sjzs" provinceCode="201"></city>
+<city name="唐山市" code="574" pinyin="tangshanshi" headChars="tss" provinceCode="201"></city>
+<city name="秦皇岛市" code="575" pinyin="qinhuangdaoshi" headChars="qhds" provinceCode="201"></city>
+<city name="邯郸市" code="576" pinyin="handanshi" headChars="hds" provinceCode="201"></city>
+<city name="邢台市" code="577" pinyin="xingtaishi" headChars="xts" provinceCode="201"></city>
+<city name="保定市" code="578" pinyin="baodingshi" headChars="bds" provinceCode="201"></city>
+<city name="张家口市" code="579" pinyin="zhangjiakoushi" headChars="zjks" provinceCode="201"></city>
+<city name="承德市" code="580" pinyin="chengdeshi" headChars="cds" provinceCode="201"></city>
+<city name="沧州市" code="581" pinyin="cangzhoushi" headChars="czs" provinceCode="201"></city>
+<city name="廊坊市" code="582" pinyin="langfangshi" headChars="lfs" provinceCode="201"></city>
+<city name="衡水市" code="583" pinyin="hengshuishi" headChars="hss" provinceCode="201"></city>
+</province>
+<province name="黑龙江" code="202" pinyin="heilongjiang" headChars="hlj">
+<city name="哈尔滨市" code="630" pinyin="haerbinshi" headChars="hebs" provinceCode="202"></city>
+<city name="齐齐哈尔市" code="631" pinyin="qiqihaershi" headChars="qqhes" provinceCode="202"></city>
+<city name="鸡西市" code="632" pinyin="jixishi" headChars="jxs" provinceCode="202"></city>
+<city name="鹤岗市" code="633" pinyin="hegangshi" headChars="hgs" provinceCode="202"></city>
+<city name="双鸭山市" code="634" pinyin="shuangyashanshi" headChars="syss" provinceCode="202"></city>
+<city name="大庆市" code="635" pinyin="daqingshi" headChars="dqs" provinceCode="202"></city>
+<city name="伊春市" code="636" pinyin="yichunshi" headChars="ycs" provinceCode="202"></city>
+<city name="佳木斯市" code="637" pinyin="jiamusishi" headChars="jmss" provinceCode="202"></city>
+<city name="七台河市" code="638" pinyin="qitaiheshi" headChars="qths" provinceCode="202"></city>
+<city name="牡丹江市" code="639" pinyin="mudanjiangshi" headChars="mdjs" provinceCode="202"></city>
+<city name="黑河市" code="640" pinyin="heiheshi" headChars="hhs" provinceCode="202"></city>
+<city name="绥化市" code="641" pinyin="suihuashi" headChars="shs" provinceCode="202"></city>
+<city name="大兴安岭地区" code="642" pinyin="daxinganlingdiqu" headChars="dxaldq" provinceCode="202"></city>
+</province>
+<province name="河南" code="203" pinyin="henan" headChars="hn">
+<city name="郑州市" code="721" pinyin="zhengzhoushi" headChars="zzs" provinceCode="203"></city>
+<city name="开封市" code="722" pinyin="kaifengshi" headChars="kfs" provinceCode="203"></city>
+<city name="洛阳市" code="723" pinyin="luoyangshi" headChars="lys" provinceCode="203"></city>
+<city name="平顶山市" code="724" pinyin="pingdingshanshi" headChars="pdss" provinceCode="203"></city>
+<city name="安阳市" code="725" pinyin="anyangshi" headChars="ays" provinceCode="203"></city>
+<city name="鹤壁市" code="726" pinyin="hebishi" headChars="hbs" provinceCode="203"></city>
+<city name="新乡市" code="727" pinyin="xinxiangshi" headChars="xxs" provinceCode="203"></city>
+<city name="焦作市" code="728" pinyin="jiaozuoshi" headChars="jzs" provinceCode="203"></city>
+<city name="濮阳市" code="729" pinyin="puyangshi" headChars="pys" provinceCode="203"></city>
+<city name="许昌市" code="730" pinyin="xuchangshi" headChars="xcs" provinceCode="203"></city>
+<city name="漯河市" code="731" pinyin="luoheshi" headChars="lhs" provinceCode="203"></city>
+<city name="三门峡市" code="732" pinyin="sanmenxiashi" headChars="smxs" provinceCode="203"></city>
+<city name="南阳市" code="733" pinyin="nanyangshi" headChars="nys" provinceCode="203"></city>
+<city name="商丘市" code="734" pinyin="shangqiushi" headChars="sqs" provinceCode="203"></city>
+<city name="信阳市" code="735" pinyin="xinyangshi" headChars="xys" provinceCode="203"></city>
+<city name="周口市" code="736" pinyin="zhoukoushi" headChars="zks" provinceCode="203"></city>
+<city name="驻马店市" code="737" pinyin="zhumadianshi" headChars="zmds" provinceCode="203"></city>
+<city name="济源市" code="12077" pinyin="jiyuanshi" headChars="jys" provinceCode="203"></city>
+</province>
+<province name="香港" code="949" pinyin="xianggang" headChars="xg">
+<city name="香港岛" code="12044" pinyin="xianggangdao" headChars="xgd" provinceCode="949"></city>
+<city name="中西区" code="12045" pinyin="zhongxiqu" headChars="zxq" provinceCode="949"></city>
+<city name="东区" code="12046" pinyin="dongqu" headChars="dq" provinceCode="949"></city>
+<city name="南区" code="12047" pinyin="nanqu" headChars="nq" provinceCode="949"></city>
+<city name="湾仔区" code="12048" pinyin="wanziqu" headChars="wzq" provinceCode="949"></city>
+<city name="九龙" code="12049" pinyin="jiulong" headChars="jl" provinceCode="949"></city>
+<city name="九龙城区" code="12050" pinyin="jiulongchengqu" headChars="jlcq" provinceCode="949"></city>
+<city name="观塘区" code="12051" pinyin="guantangqu" headChars="gtq" provinceCode="949"></city>
+<city name="深水埗区" code="12052" pinyin="shenshuibuqu" headChars="ssbq" provinceCode="949"></city>
+<city name="黄大仙区" code="12053" pinyin="huangdaxianqu" headChars="hdxq" provinceCode="949"></city>
+<city name="油尖旺区" code="12054" pinyin="youjianwangqu" headChars="yjwq" provinceCode="949"></city>
+<city name="新界" code="12055" pinyin="xinjie" headChars="xj" provinceCode="949"></city>
+<city name="离岛区" code="12056" pinyin="lidaoqu" headChars="ldq" provinceCode="949"></city>
+<city name="葵青区" code="12057" pinyin="kuiqingqu" headChars="kqq" provinceCode="949"></city>
+<city name="北区" code="12058" pinyin="beiqu" headChars="bq" provinceCode="949"></city>
+<city name="西贡区" code="12059" pinyin="xigongqu" headChars="xgq" provinceCode="949"></city>
+<city name="沙田区" code="12060" pinyin="shatianqu" headChars="stq" provinceCode="949"></city>
+<city name="大埔区" code="12061" pinyin="dapuqu" headChars="dpq" provinceCode="949"></city>
+<city name="荃湾区" code="12062" pinyin="quanwanqu" headChars="qwq" provinceCode="949"></city>
+<city name="屯门区" code="12063" pinyin="tunmenqu" headChars="tmq" provinceCode="949"></city>
+<city name="元朗区" code="12064" pinyin="yuanlangqu" headChars="ylq" provinceCode="949"></city>
+</province>
+<province name="湖北" code="191" pinyin="hubei" headChars="hb">
+<city name="武汉市" code="738" pinyin="wuhanshi" headChars="whs" provinceCode="191"></city>
+<city name="黄石市" code="739" pinyin="huangshishi" headChars="hss" provinceCode="191"></city>
+<city name="十堰市" code="740" pinyin="shiyanshi" headChars="sys" provinceCode="191"></city>
+<city name="宜昌市" code="741" pinyin="yichangshi" headChars="ycs" provinceCode="191"></city>
+<city name="襄阳市" code="742" pinyin="xiangyangshi" headChars="xys" provinceCode="191"></city>
+<city name="鄂州市" code="743" pinyin="ezhoushi" headChars="ezs" provinceCode="191"></city>
+<city name="荆门市" code="744" pinyin="jingmenshi" headChars="jms" provinceCode="191"></city>
+<city name="孝感市" code="745" pinyin="xiaoganshi" headChars="xgs" provinceCode="191"></city>
+<city name="荆州市" code="746" pinyin="jingzhoushi" headChars="jzs" provinceCode="191"></city>
+<city name="黄冈市" code="747" pinyin="huanggangshi" headChars="hgs" provinceCode="191"></city>
+<city name="咸宁市" code="748" pinyin="xianningshi" headChars="xns" provinceCode="191"></city>
+<city name="随州市" code="749" pinyin="suizhoushi" headChars="szs" provinceCode="191"></city>
+<city name="恩施州" code="750" pinyin="enshizhou" headChars="esz" provinceCode="191"></city>
+<city name="仙桃市" code="12079" pinyin="xiantaoshi" headChars="xts" provinceCode="191"></city>
+<city name="潜江市" code="12080" pinyin="qianjiangshi" headChars="qjs" provinceCode="191"></city>
+<city name="天门市" code="12081" pinyin="tianmenshi" headChars="tms" provinceCode="191"></city>
+<city name="神农架林区" code="12082" pinyin="shennongjialinqu" headChars="snjlq" provinceCode="191"></city>
+</province>
+<province name="湖南" code="190" pinyin="hunan" headChars="hn">
+<city name="长沙市" code="417" pinyin="changshashi" headChars="css" provinceCode="190"></city>
+<city name="邵阳市" code="418" pinyin="shaoyangshi" headChars="sys" provinceCode="190"></city>
+<city name="株洲市" code="419" pinyin="zhuzhoushi" headChars="zzs" provinceCode="190"></city>
+<city name="湘潭市" code="420" pinyin="xiangtanshi" headChars="xts" provinceCode="190"></city>
+<city name="岳阳市" code="421" pinyin="yueyangshi" headChars="yys" provinceCode="190"></city>
+<city name="常德市" code="422" pinyin="changdeshi" headChars="cds" provinceCode="190"></city>
+<city name="张家界市" code="423" pinyin="zhangjiajieshi" headChars="zjjs" provinceCode="190"></city>
+<city name="益阳市" code="424" pinyin="yiyangshi" headChars="yys" provinceCode="190"></city>
+<city name="郴州市" code="425" pinyin="chenzhoushi" headChars="czs" provinceCode="190"></city>
+<city name="永州市" code="426" pinyin="yongzhoushi" headChars="yzs" provinceCode="190"></city>
+<city name="娄底市" code="427" pinyin="loudishi" headChars="lds" provinceCode="190"></city>
+<city name="湘西州" code="428" pinyin="xiangxizhou" headChars="xxz" provinceCode="190"></city>
+<city name="怀化市" code="429" pinyin="huaihuashi" headChars="hhs" provinceCode="190"></city>
+<city name="衡阳市" code="430" pinyin="hengyangshi" headChars="hys" provinceCode="190"></city>
+</province>
+<province name="内蒙古" code="204" pinyin="neimenggu" headChars="nmg">
+<city name="呼和浩特市" code="595" pinyin="huhehaoteshi" headChars="hhhts" provinceCode="204"></city>
+<city name="包头市" code="596" pinyin="baotoushi" headChars="bts" provinceCode="204"></city>
+<city name="乌海市" code="597" pinyin="wuhaishi" headChars="whs" provinceCode="204"></city>
+<city name="赤峰市" code="598" pinyin="chifengshi" headChars="cfs" provinceCode="204"></city>
+<city name="通辽市" code="599" pinyin="tongliaoshi" headChars="tls" provinceCode="204"></city>
+<city name="鄂尔多斯市" code="600" pinyin="eerduosishi" headChars="eedss" provinceCode="204"></city>
+<city name="呼伦贝尔市" code="601" pinyin="hulunbeiershi" headChars="hlbes" provinceCode="204"></city>
+<city name="巴彦淖尔市" code="602" pinyin="bayannaoershi" headChars="bynes" provinceCode="204"></city>
+<city name="乌兰察布市" code="603" pinyin="wulanchabushi" headChars="wlcbs" provinceCode="204"></city>
+<city name="兴安盟" code="604" pinyin="xinganmeng" headChars="xam" provinceCode="204"></city>
+<city name="锡林郭勒盟" code="605" pinyin="xilinguolemeng" headChars="xlglm" provinceCode="204"></city>
+<city name="阿拉善盟" code="606" pinyin="alashanmeng" headChars="alsm" provinceCode="204"></city>
+</province>
+<province name="江苏" code="205" pinyin="jiangsu" headChars="js">
+<city name="南京市" code="571" pinyin="nanjingshi" headChars="njs" provinceCode="205"></city>
+<city name="无锡市" code="644" pinyin="wuxishi" headChars="wxs" provinceCode="205"></city>
+<city name="徐州市" code="645" pinyin="xuzhoushi" headChars="xzs" provinceCode="205"></city>
+<city name="常州市" code="646" pinyin="changzhoushi" headChars="czs" provinceCode="205"></city>
+<city name="苏州市" code="647" pinyin="suzhoushi" headChars="szs" provinceCode="205"></city>
+<city name="南通市" code="648" pinyin="nantongshi" headChars="nts" provinceCode="205"></city>
+<city name="连云港市" code="649" pinyin="lianyungangshi" headChars="lygs" provinceCode="205"></city>
+<city name="淮安市" code="650" pinyin="huaianshi" headChars="has" provinceCode="205"></city>
+<city name="盐城市" code="651" pinyin="yanchengshi" headChars="ycs" provinceCode="205"></city>
+<city name="扬州市" code="652" pinyin="yangzhoushi" headChars="yzs" provinceCode="205"></city>
+<city name="镇江市" code="653" pinyin="zhenjiangshi" headChars="zjs" provinceCode="205"></city>
+<city name="泰州市" code="654" pinyin="taizhoushi" headChars="tzs" provinceCode="205"></city>
+<city name="宿迁市" code="655" pinyin="suqianshi" headChars="sqs" provinceCode="205"></city>
+</province>
+<province name="江西" code="206" pinyin="jiangxi" headChars="jx">
+<city name="南昌市" code="693" pinyin="nanchangshi" headChars="ncs" provinceCode="206"></city>
+<city name="景德镇市" code="694" pinyin="jingdezhenshi" headChars="jdzs" provinceCode="206"></city>
+<city name="萍乡市" code="695" pinyin="pingxiangshi" headChars="pxs" provinceCode="206"></city>
+<city name="九江市" code="696" pinyin="jiujiangshi" headChars="jjs" provinceCode="206"></city>
+<city name="新余市" code="697" pinyin="xinyushi" headChars="xys" provinceCode="206"></city>
+<city name="鹰潭市" code="698" pinyin="yingtanshi" headChars="yts" provinceCode="206"></city>
+<city name="赣州市" code="699" pinyin="ganzhoushi" headChars="gzs" provinceCode="206"></city>
+<city name="吉安市" code="700" pinyin="jianshi" headChars="jas" provinceCode="206"></city>
+<city name="宜春市" code="701" pinyin="yichunshi" headChars="ycs" provinceCode="206"></city>
+<city name="抚州市" code="702" pinyin="fuzhoushi" headChars="fzs" provinceCode="206"></city>
+<city name="上饶市" code="703" pinyin="shangraoshi" headChars="srs" provinceCode="206"></city>
+</province>
+<province name="吉林" code="207" pinyin="jilin" headChars="jl">
+<city name="长春市" code="621" pinyin="changchunshi" headChars="ccs" provinceCode="207"></city>
+<city name="吉林市" code="622" pinyin="jilinshi" headChars="jls" provinceCode="207"></city>
+<city name="四平市" code="623" pinyin="sipingshi" headChars="sps" provinceCode="207"></city>
+<city name="辽源市" code="624" pinyin="liaoyuanshi" headChars="lys" provinceCode="207"></city>
+<city name="通化市" code="625" pinyin="tonghuashi" headChars="ths" provinceCode="207"></city>
+<city name="白山市" code="626" pinyin="baishanshi" headChars="bss" provinceCode="207"></city>
+<city name="松原市" code="627" pinyin="songyuanshi" headChars="sys" provinceCode="207"></city>
+<city name="白城市" code="628" pinyin="baichengshi" headChars="bcs" provinceCode="207"></city>
+<city name="延边州" code="629" pinyin="yanbianzhou" headChars="ybz" provinceCode="207"></city>
+</province>
+<province name="辽宁" code="208" pinyin="liaoning" headChars="ln">
+<city name="沈阳市" code="607" pinyin="shenyangshi" headChars="sys" provinceCode="208"></city>
+<city name="大连市" code="608" pinyin="dalianshi" headChars="dls" provinceCode="208"></city>
+<city name="鞍山市" code="609" pinyin="anshanshi" headChars="ass" provinceCode="208"></city>
+<city name="抚顺市" code="610" pinyin="fushunshi" headChars="fss" provinceCode="208"></city>
+<city name="本溪市" code="611" pinyin="benxishi" headChars="bxs" provinceCode="208"></city>
+<city name="丹东市" code="612" pinyin="dandongshi" headChars="dds" provinceCode="208"></city>
+<city name="锦州市" code="613" pinyin="jinzhoushi" headChars="jzs" provinceCode="208"></city>
+<city name="营口市" code="614" pinyin="yingkoushi" headChars="yks" provinceCode="208"></city>
+<city name="阜新市" code="615" pinyin="fuxinshi" headChars="fxs" provinceCode="208"></city>
+<city name="辽阳市" code="616" pinyin="liaoyangshi" headChars="lys" provinceCode="208"></city>
+<city name="盘锦市" code="617" pinyin="panjinshi" headChars="pjs" provinceCode="208"></city>
+<city name="铁岭市" code="618" pinyin="tielingshi" headChars="tls" provinceCode="208"></city>
+<city name="朝阳市" code="619" pinyin="chaoyangshi" headChars="cys" provinceCode="208"></city>
+<city name="葫芦岛市" code="620" pinyin="huludaoshi" headChars="hlds" provinceCode="208"></city>
+</province>
+<province name="澳门" code="950" pinyin="aomen" headChars="am">
+<city name="澳门半岛" code="12034" pinyin="aomenbandao" headChars="ambd" provinceCode="950"></city>
+<city name="花地玛堂区" code="12035" pinyin="huadimatangqu" headChars="hdmtq" provinceCode="950"></city>
+<city name="圣安多尼堂区" code="12036" pinyin="shenganduonitangqu" headChars="sadntq" provinceCode="950"></city>
+<city name="大堂区" code="12037" pinyin="datangqu" headChars="dtq" provinceCode="950"></city>
+<city name="望德堂区" code="12038" pinyin="wangdetangqu" headChars="wdtq" provinceCode="950"></city>
+<city name="风顺堂区" code="12039" pinyin="fengshuntangqu" headChars="fstq" provinceCode="950"></city>
+<city name="澳门离岛" code="12040" pinyin="aomenlidao" headChars="amld" provinceCode="950"></city>
+<city name="嘉模堂区" code="12041" pinyin="jiamotangqu" headChars="jmtq" provinceCode="950"></city>
+<city name="圣方济各堂区" code="12042" pinyin="shengfangjigetangqu" headChars="sfjgtq" provinceCode="950"></city>
+<city name="路氹城" code="12043" pinyin="ludangcheng" headChars="ldc" provinceCode="950"></city>
+</province>
+<province name="宁夏" code="209" pinyin="ningxia" headChars="nx">
+<city name="银川市" code="552" pinyin="yinchuanshi" headChars="ycs" provinceCode="209"></city>
+<city name="石嘴山市" code="553" pinyin="shizuishanshi" headChars="szss" provinceCode="209"></city>
+<city name="吴忠市" code="554" pinyin="wuzhongshi" headChars="wzs" provinceCode="209"></city>
+<city name="固原市" code="555" pinyin="guyuanshi" headChars="gys" provinceCode="209"></city>
+<city name="中卫市" code="556" pinyin="zhongweishi" headChars="zws" provinceCode="209"></city>
+</province>
+<province name="青海" code="210" pinyin="qinghai" headChars="qh">
+<city name="西宁市" code="544" pinyin="xiningshi" headChars="xns" provinceCode="210"></city>
+<city name="海东地区" code="545" pinyin="haidongdiqu" headChars="hddq" provinceCode="210"></city>
+<city name="海北州" code="546" pinyin="haibeizhou" headChars="hbz" provinceCode="210"></city>
+<city name="黄南州" code="547" pinyin="huangnanzhou" headChars="hnz" provinceCode="210"></city>
+<city name="海南藏族自治州" code="548" pinyin="hainanzangzuzizhizhou" headChars="hnzzzzz" provinceCode="210"></city>
+<city name="果洛州" code="549" pinyin="guoluozhou" headChars="glz" provinceCode="210"></city>
+<city name="玉树藏族自治州" code="550" pinyin="yushuzangzuzizhizhou" headChars="yszzzzz" provinceCode="210"></city>
+<city name="海西州" code="551" pinyin="haixizhou" headChars="hxz" provinceCode="210"></city>
+<city name="海北藏族自治州" code="12146" pinyin="haibeizangzuzizhizhou" headChars="hbzzzzz" provinceCode="210"></city>
+</province>
+<province name="山东" code="212" pinyin="shandong" headChars="sd">
+<city name="济南市" code="704" pinyin="jinanshi" headChars="jns" provinceCode="212"></city>
+<city name="青岛市" code="705" pinyin="qingdaoshi" headChars="qds" provinceCode="212"></city>
+<city name="淄博市" code="706" pinyin="ziboshi" headChars="zbs" provinceCode="212"></city>
+<city name="枣庄市" code="707" pinyin="zaozhuangshi" headChars="zzs" provinceCode="212"></city>
+<city name="东营市" code="708" pinyin="dongyingshi" headChars="dys" provinceCode="212"></city>
+<city name="烟台市" code="709" pinyin="yantaishi" headChars="yts" provinceCode="212"></city>
+<city name="潍坊市" code="710" pinyin="weifangshi" headChars="wfs" provinceCode="212"></city>
+<city name="济宁市" code="711" pinyin="jiningshi" headChars="jns" provinceCode="212"></city>
+<city name="泰安市" code="712" pinyin="taianshi" headChars="tas" provinceCode="212"></city>
+<city name="威海市" code="713" pinyin="weihaishi" headChars="whs" provinceCode="212"></city>
+<city name="日照市" code="714" pinyin="rizhaoshi" headChars="rzs" provinceCode="212"></city>
+<city name="莱芜市" code="715" pinyin="laiwushi" headChars="lws" provinceCode="212"></city>
+<city name="临沂市" code="716" pinyin="linyishi" headChars="lys" provinceCode="212"></city>
+<city name="德州市" code="717" pinyin="dezhoushi" headChars="dzs" provinceCode="212"></city>
+<city name="聊城市" code="718" pinyin="liaochengshi" headChars="lcs" provinceCode="212"></city>
+<city name="滨州市" code="719" pinyin="binzhoushi" headChars="bzs" provinceCode="212"></city>
+<city name="菏泽市" code="720" pinyin="hezeshi" headChars="hzs" provinceCode="212"></city>
+</province>
+<province name="上海" code="213" pinyin="shanghai" headChars="sh">
+<city name="上海市" code="643" pinyin="shanghaishi" headChars="shs" provinceCode="213"></city>
+</province>
+<province name="山西" code="214" pinyin="shanxi" headChars="sx">
+<city name="太原市" code="584" pinyin="taiyuanshi" headChars="tys" provinceCode="214"></city>
+<city name="大同市" code="585" pinyin="datongshi" headChars="dts" provinceCode="214"></city>
+<city name="阳泉市" code="586" pinyin="yangquanshi" headChars="yqs" provinceCode="214"></city>
+<city name="长治市" code="587" pinyin="zhangzhishi" headChars="zzs" provinceCode="214"></city>
+<city name="晋城市" code="588" pinyin="jinchengshi" headChars="jcs" provinceCode="214"></city>
+<city name="朔州市" code="589" pinyin="shuozhoushi" headChars="szs" provinceCode="214"></city>
+<city name="晋中市" code="590" pinyin="jinzhongshi" headChars="jzs" provinceCode="214"></city>
+<city name="运城市" code="591" pinyin="yunchengshi" headChars="ycs" provinceCode="214"></city>
+<city name="忻州市" code="592" pinyin="xinzhoushi" headChars="xzs" provinceCode="214"></city>
+<city name="临汾市" code="593" pinyin="linfenshi" headChars="lfs" provinceCode="214"></city>
+<city name="吕梁市" code="594" pinyin="lu:liangshi" headChars="lls" provinceCode="214"></city>
+</province>
+<province name="陕西" code="211" pinyin="shanxi" headChars="sx">
+<city name="西安市" code="520" pinyin="xianshi" headChars="xas" provinceCode="211"></city>
+<city name="铜川市" code="521" pinyin="tongchuanshi" headChars="tcs" provinceCode="211"></city>
+<city name="宝鸡市" code="522" pinyin="baojishi" headChars="bjs" provinceCode="211"></city>
+<city name="咸阳市" code="523" pinyin="xianyangshi" headChars="xys" provinceCode="211"></city>
+<city name="渭南市" code="524" pinyin="weinanshi" headChars="wns" provinceCode="211"></city>
+<city name="延安市" code="525" pinyin="yananshi" headChars="yas" provinceCode="211"></city>
+<city name="汉中市" code="526" pinyin="hanzhongshi" headChars="hzs" provinceCode="211"></city>
+<city name="榆林市" code="527" pinyin="yulinshi" headChars="yls" provinceCode="211"></city>
+<city name="安康市" code="528" pinyin="ankangshi" headChars="aks" provinceCode="211"></city>
+<city name="商洛市" code="529" pinyin="shangluoshi" headChars="sls" provinceCode="211"></city>
+</province>
+<province name="四川" code="215" pinyin="sichuan" headChars="sc">
+<city name="成都市" code="469" pinyin="chengdoushi" headChars="cds" provinceCode="215"></city>
+<city name="自贡市" code="470" pinyin="zigongshi" headChars="zgs" provinceCode="215"></city>
+<city name="攀枝花市" code="471" pinyin="panzhihuashi" headChars="pzhs" provinceCode="215"></city>
+<city name="德阳市" code="472" pinyin="deyangshi" headChars="dys" provinceCode="215"></city>
+<city name="绵阳市" code="473" pinyin="mianyangshi" headChars="mys" provinceCode="215"></city>
+<city name="广元市" code="474" pinyin="guangyuanshi" headChars="gys" provinceCode="215"></city>
+<city name="遂宁市" code="475" pinyin="suiningshi" headChars="sns" provinceCode="215"></city>
+<city name="内江市" code="476" pinyin="neijiangshi" headChars="njs" provinceCode="215"></city>
+<city name="乐山市" code="477" pinyin="leshanshi" headChars="lss" provinceCode="215"></city>
+<city name="南充市" code="478" pinyin="nanchongshi" headChars="ncs" provinceCode="215"></city>
+<city name="眉山市" code="479" pinyin="meishanshi" headChars="mss" provinceCode="215"></city>
+<city name="宜宾市" code="480" pinyin="yibinshi" headChars="ybs" provinceCode="215"></city>
+<city name="广安市" code="481" pinyin="guanganshi" headChars="gas" provinceCode="215"></city>
+<city name="达州市" code="482" pinyin="dazhoushi" headChars="dzs" provinceCode="215"></city>
+<city name="雅安市" code="483" pinyin="yaanshi" headChars="yas" provinceCode="215"></city>
+<city name="巴中市" code="484" pinyin="bazhongshi" headChars="bzs" provinceCode="215"></city>
+<city name="资阳市" code="485" pinyin="ziyangshi" headChars="zys" provinceCode="215"></city>
+<city name="阿坝州" code="486" pinyin="abazhou" headChars="abz" provinceCode="215"></city>
+<city name="甘孜州" code="487" pinyin="ganzizhou" headChars="gzz" provinceCode="215"></city>
+<city name="凉山州" code="488" pinyin="liangshanzhou" headChars="lsz" provinceCode="215"></city>
+<city name="泸州" code="12066" pinyin="luzhou" headChars="lz" provinceCode="215"></city>
+</province>
+<province name="台湾" code="954" pinyin="taiwan" headChars="tw">
+<city name="台北市" code="955" pinyin="taibeishi" headChars="tbs" provinceCode="954"></city>
+<city name="高雄市" code="956" pinyin="gaoxiongshi" headChars="gxs" provinceCode="954"></city>
+<city name="基隆市" code="957" pinyin="jilongshi" headChars="jls" provinceCode="954"></city>
+<city name="台中市" code="958" pinyin="taizhongshi" headChars="tzs" provinceCode="954"></city>
+<city name="新竹市" code="959" pinyin="xinzhushi" headChars="xzs" provinceCode="954"></city>
+<city name="台南市" code="960" pinyin="tainanshi" headChars="tns" provinceCode="954"></city>
+<city name="嘉义市" code="961" pinyin="jiayishi" headChars="jys" provinceCode="954"></city>
+<city name="台北县" code="12161" pinyin="taibeixian" headChars="tbx" provinceCode="954"></city>
+<city name="宜兰县" code="12162" pinyin="yilanxian" headChars="ylx" provinceCode="954"></city>
+<city name="桃园县" code="12163" pinyin="taoyuanxian" headChars="tyx" provinceCode="954"></city>
+<city name="新竹县" code="12164" pinyin="xinzhuxian" headChars="xzx" provinceCode="954"></city>
+<city name="苗栗县" code="12165" pinyin="miaolixian" headChars="mlx" provinceCode="954"></city>
+<city name="台中县" code="12166" pinyin="taizhongxian" headChars="tzx" provinceCode="954"></city>
+<city name="彰化县" code="12167" pinyin="zhanghuaxian" headChars="zhx" provinceCode="954"></city>
+<city name="南投县" code="12168" pinyin="nantouxian" headChars="ntx" provinceCode="954"></city>
+<city name="云林县" code="12169" pinyin="yunlinxian" headChars="ylx" provinceCode="954"></city>
+<city name="嘉义县" code="12170" pinyin="jiayixian" headChars="jyx" provinceCode="954"></city>
+<city name="台南县" code="12171" pinyin="tainanxian" headChars="tnx" provinceCode="954"></city>
+<city name="高雄县" code="12172" pinyin="gaoxiongxian" headChars="gxx" provinceCode="954"></city>
+<city name="屏东县" code="12173" pinyin="pingdongxian" headChars="pdx" provinceCode="954"></city>
+<city name="澎湖县" code="12174" pinyin="penghuxian" headChars="phx" provinceCode="954"></city>
+<city name="台东县" code="12175" pinyin="taidongxian" headChars="tdx" provinceCode="954"></city>
+<city name="花莲县" code="12176" pinyin="hualianxian" headChars="hlx" provinceCode="954"></city>
+</province>
+<province name="天津" code="216" pinyin="tianjin" headChars="tj">
+<city name="天津市" code="572" pinyin="tianjinshi" headChars="tjs" provinceCode="216"></city>
+</province>
+<province name="西藏" code="217" pinyin="xizang" headChars="xz">
+<city name="拉萨市" code="513" pinyin="lasashi" headChars="lss" provinceCode="217"></city>
+<city name="昌都地区" code="514" pinyin="changdoudiqu" headChars="cddq" provinceCode="217"></city>
+<city name="山南地区" code="515" pinyin="shannandiqu" headChars="sndq" provinceCode="217"></city>
+<city name="日喀则地区" code="516" pinyin="rikazediqu" headChars="rkzdq" provinceCode="217"></city>
+<city name="那曲地区" code="517" pinyin="neiqudiqu" headChars="nqdq" provinceCode="217"></city>
+<city name="阿里地区" code="518" pinyin="alidiqu" headChars="aldq" provinceCode="217"></city>
+<city name="林芝地区" code="519" pinyin="linzhidiqu" headChars="lzdq" provinceCode="217"></city>
+</province>
+<province name="新疆" code="218" pinyin="xinjiang" headChars="xj">
+<city name="乌鲁木齐市" code="557" pinyin="wulumuqishi" headChars="wlmqs" provinceCode="218"></city>
+<city name="克拉玛依市" code="558" pinyin="kelamayishi" headChars="klmys" provinceCode="218"></city>
+<city name="吐鲁番地区" code="559" pinyin="tulufandiqu" headChars="tlfdq" provinceCode="218"></city>
+<city name="哈密地区" code="560" pinyin="hamidiqu" headChars="hmdq" provinceCode="218"></city>
+<city name="昌吉州" code="561" pinyin="changjizhou" headChars="cjz" provinceCode="218"></city>
+<city name="博州" code="562" pinyin="bozhou" headChars="bz" provinceCode="218"></city>
+<city name="巴州" code="563" pinyin="bazhou" headChars="bz" provinceCode="218"></city>
+<city name="阿克苏地区" code="564" pinyin="akesudiqu" headChars="aksdq" provinceCode="218"></city>
+<city name="克州" code="565" pinyin="kezhou" headChars="kz" provinceCode="218"></city>
+<city name="喀什地区" code="566" pinyin="kashendiqu" headChars="ksdq" provinceCode="218"></city>
+<city name="和田地区" code="567" pinyin="hetiandiqu" headChars="htdq" provinceCode="218"></city>
+<city name="伊犁州" code="568" pinyin="yilizhou" headChars="ylz" provinceCode="218"></city>
+<city name="塔城地区" code="569" pinyin="tachengdiqu" headChars="tcdq" provinceCode="218"></city>
+<city name="阿勒泰地区" code="570" pinyin="aletaidiqu" headChars="altdq" provinceCode="218"></city>
+<city name="昌吉回族自治州" code="12152" pinyin="changjihuizuzizhizhou" headChars="cjhzzzz" provinceCode="218"></city>
+<city name="博尔塔拉蒙古自治州" code="12153" pinyin="boertalamengguzizhizhou" headChars="betlmgzzz" provinceCode="218"></city>
+<city name="巴音郭楞蒙古自治州" code="12154" pinyin="bayinguolengmengguzizhizhou" headChars="byglmgzzz" provinceCode="218"></city>
+<city name="克孜勒苏柯尔克孜自治州" code="12155" pinyin="kezilesukeerkezizizhizhou" headChars="kzlskekzzzz" provinceCode="218"></city>
+<city name="伊犁哈萨克自治州" code="12156" pinyin="yilihasakezizhizhou" headChars="ylhskzzz" provinceCode="218"></city>
+<city name="石河子市" code="12157" pinyin="shihezishi" headChars="shzs" provinceCode="218"></city>
+<city name="阿拉尔市" code="12158" pinyin="alaershi" headChars="ales" provinceCode="218"></city>
+<city name="图木舒克市" code="12159" pinyin="tumushukeshi" headChars="tmsks" provinceCode="218"></city>
+<city name="五家渠市" code="12160" pinyin="wujiaqushi" headChars="wjqs" provinceCode="218"></city>
+<city name="北屯市" code="14898" pinyin="beitunshi" headChars="bts" provinceCode="218"></city>
+</province>
+<province name="云南" code="219" pinyin="yunnan" headChars="yn">
+<city name="昆明市" code="498" pinyin="kunmingshi" headChars="kms" provinceCode="219"></city>
+<city name="曲靖市" code="499" pinyin="qujingshi" headChars="qjs" provinceCode="219"></city>
+<city name="玉溪市" code="500" pinyin="yuxishi" headChars="yxs" provinceCode="219"></city>
+<city name="保山市" code="501" pinyin="baoshanshi" headChars="bss" provinceCode="219"></city>
+<city name="昭通市" code="502" pinyin="zhaotongshi" headChars="zts" provinceCode="219"></city>
+<city name="丽江市" code="503" pinyin="lijiangshi" headChars="ljs" provinceCode="219"></city>
+<city name="普洱市" code="504" pinyin="puershi" headChars="pes" provinceCode="219"></city>
+<city name="临沧市" code="505" pinyin="lincangshi" headChars="lcs" provinceCode="219"></city>
+<city name="楚雄州" code="506" pinyin="chuxiongzhou" headChars="cxz" provinceCode="219"></city>
+<city name="红河州" code="507" pinyin="honghezhou" headChars="hhz" provinceCode="219"></city>
+<city name="文山州" code="508" pinyin="wenshanzhou" headChars="wsz" provinceCode="219"></city>
+<city name="西双版纳州" code="509" pinyin="xishuangbannazhou" headChars="xsbnz" provinceCode="219"></city>
+<city name="大理州" code="510" pinyin="dalizhou" headChars="dlz" provinceCode="219"></city>
+<city name="德宏州" code="511" pinyin="dehongzhou" headChars="dhz" provinceCode="219"></city>
+<city name="怒江州" code="512" pinyin="nujiangzhou" headChars="njz" provinceCode="219"></city>
+<city name="思茅市" code="12135" pinyin="simaoshi" headChars="sms" provinceCode="219"></city>
+<city name="迪庆藏族自治州" code="12143" pinyin="diqingzangzuzizhizhou" headChars="dqzzzzz" provinceCode="219"></city>
+</province>
+<province name="浙江" code="220" pinyin="zhejiang" headChars="zj">
+<city name="杭州市" code="656" pinyin="hangzhoushi" headChars="hzs" provinceCode="220"></city>
+<city name="宁波市" code="657" pinyin="ningboshi" headChars="nbs" provinceCode="220"></city>
+<city name="温州市" code="658" pinyin="wenzhoushi" headChars="wzs" provinceCode="220"></city>
+<city name="嘉兴市" code="659" pinyin="jiaxingshi" headChars="jxs" provinceCode="220"></city>
+<city name="湖州市" code="660" pinyin="huzhoushi" headChars="hzs" provinceCode="220"></city>
+<city name="绍兴市" code="661" pinyin="shaoxingshi" headChars="sxs" provinceCode="220"></city>
+<city name="金华市" code="662" pinyin="jinhuashi" headChars="jhs" provinceCode="220"></city>
+<city name="衢州市" code="663" pinyin="quzhoushi" headChars="qzs" provinceCode="220"></city>
+<city name="舟山市" code="664" pinyin="zhoushanshi" headChars="zss" provinceCode="220"></city>
+<city name="台州市" code="665" pinyin="taizhoushi" headChars="tzs" provinceCode="220"></city>
+<city name="丽水市" code="666" pinyin="lishuishi" headChars="lss" provinceCode="220"></city>
+</province>
+</root>
